@@ -71,14 +71,14 @@ with st.sidebar:
 page = st.session_state.page
 
 if page == "home":
-    from app.pages.home import render_home
+    from app_pages.home import render_home
     render_home()
 elif page == "analyzer":
-    from app.pages.analyzer import render_analyzer
+    from app_pages.analyzer import render_analyzer
     render_analyzer()
 elif page == "explain":
-    from app.pages.explain import render_explain
+    from app_pages.explain import render_explain
     render_explain()
 elif page == "improve":
-    from app.pages.improve import render_improve
+    from app_pages.improve import render_improve
     render_improve()
