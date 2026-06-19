@@ -1,0 +1,29 @@
+Senior ML Engineer — NLP Focus
+Company: AI Platform Startup
+Location: Remote / Bangalore
+
+ABOUT
+We're building the next generation of AI-powered tools for enterprise. We need an ML engineer 
+who is passionate about NLP, explainability, and production-grade systems.
+
+RESPONSIBILITIES
+- Build and maintain NLP models using BERT, GPT, and other transformers
+- Deploy models to production with FastAPI and Docker on AWS
+- Implement SHAP-based explainability for model decisions
+- Collaborate with product team to define AI features
+- Ensure models meet fairness and bias standards
+
+REQUIRED
+- 2+ years Python, machine learning
+- NLP with transformer models (BERT, sentence-transformers)
+- Production ML: Docker, FastAPI, AWS
+- SQL, Pandas, NumPy
+- Experiment tracking (MLflow, W&B)
+
+PREFERRED
+- Experience with SHAP, LIME, or other XAI frameworks
+- Knowledge of fairness-aware ML
+- MLOps experience (CI/CD, model monitoring)
+
+EDUCATION
+B.Tech/B.E. Computer Science or equivalent

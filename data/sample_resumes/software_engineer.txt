@@ -1,0 +1,29 @@
+Priya Sharma | priya.sharma@email.com | github.com/priyasharma
+
+SUMMARY
+Machine learning engineer with 3 years of experience building NLP systems and production ML pipelines.
+Focused on building interpretable, fair, and production-grade AI systems.
+
+EXPERIENCE
+
+ML Engineer — FinTech AI (2022–Present)
+- Built document classification system using BERT fine-tuning; improved accuracy by 18%
+- Deployed models using Docker + FastAPI on AWS; handled 10k+ requests/day
+- Applied LIME and SHAP for regulatory explainability requirements
+- Set up MLflow for experiment tracking and model versioning
+
+Data Scientist — Analytics Co (2021–2022)
+- Built recommendation engine using collaborative filtering and embeddings
+- Wrote data pipelines with PySpark and Airflow
+- Created dashboards in Power BI for business stakeholders
+
+SKILLS
+Python, PyTorch, TensorFlow, scikit-learn, HuggingFace Transformers,
+SHAP, LIME, FastAPI, Docker, AWS, PostgreSQL, PySpark, Airflow, MLflow, Git
+
+EDUCATION
+B.Tech in Computer Science — NIT Trichy (2021)
+
+PROJECTS
+- Bias Detection Tool: Built fairness analysis pipeline for hiring algorithms
+- Multilingual NER: Fine-tuned mBERT for named entity recognition across 5 languages
